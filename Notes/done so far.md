@@ -47,9 +47,22 @@ Instructors for the course: Hadelin de Ponteves and Kirill Eremenko
 >> created template for future non-linear regression models
 
 
+# Section 7: Support Vector Regression (SVR)
+>> downloaded dataset to designated folder
+>> copied code from template mde earlier
+>> created a regressor for SVR in python
+>> un-commented feature scaling
+>> implemented and saw the result
+>> did same thing in R, except, feature scaling was still commented
+
+
+# Section 8: Decision Tree Regression
+
+
+
 
 
 -----------------------------------------------------------------------------------------------------
 
 # Currently at
-Part 2 Section 6 Chapter 63
+Part 2 Section 7 Chapter 74

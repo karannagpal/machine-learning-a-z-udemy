@@ -94,3 +94,21 @@
 >> `lm()` function has 2 params: formula(what is proportional to what) and data(what data to operate on)
 >> `ggplot2` in R is similar to `matplotlib` in python
 >> `geom_point()` and `geom_line()` functions of ggplot have 2 arg: `aes`, the aesthetic mapping and `color`
+
+
+# Section 7: Support Vector Regression (SVR)
+>> SVR is extension of SLR (simple linear regression), quite literally
+>> in SLR, we draw a line that bset passes through all scattered points
+>> SVR accepts all points that are within certain `threshold` (called epsilon)
+>> `kernal` is used in SVR, it can be linear, polynomial or gaussian
+
+>> in python, `SVR` class is used from `sklearn.svm`
+>> kernel used is gaussian a.k.a rbf
+>> feature scaling is required, else the regressor gives horizontal line
+
+>> in R, `e1071` library is used to make regressor of SVM
+>> `gaussian` kernel is used by default
+>> `ggplot2` is used to plot
+
+
+# Section 8: Decision Tree Regression

@@ -10,6 +10,8 @@
 - Simple Linear Regression
 - Multiple Linear Regression
 - Polynomial Regression
+- Support Vector Regression
+- Decision Tree Regression
 - More...
 #### 3. Classification
 #### Even More...
